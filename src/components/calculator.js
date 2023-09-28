@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 // import { render } from '@testing-library/react';
 import React, { useState } from 'react';
 import DisplayScreen from './displayScreen';

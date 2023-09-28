@@ -9,8 +9,8 @@ const NavBar = () => (
   <>
     <nav className="nav-container">
       <h1 style={HeaderStyle}>
-        Math
-        <span style={{ color: '#f5913e' }}>Magicians</span>
+        React
+        <span style={{ color: '#f5913e' }}>Play</span>
       </h1>
       <ul className="nav-links">
         <li className="link"><Link to="/">Home</Link></li>

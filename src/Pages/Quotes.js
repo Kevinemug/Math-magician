@@ -18,8 +18,8 @@ const Quote = () => (
         one pattern for beauty’s sake and pulls it down to earth.
         <br />
         <span style={{ fontWeight: '600', float: 'right' }}>
-          — Marston Morse,
-          <small style={{ color: 'brown' }}> American mathematician</small>
+          — Kevayin
+          <small style={{ color: 'brown' }}> playing with react</small>
         </span>
       </p>
     </main>
